@@ -1,0 +1,18 @@
+:root {
+  /* 浅色主题变量 */
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --card-bg: #f7f7f7;
+  --layout-color:rgba(224, 224, 224, 0.562);
+  --border-color: #e0e0e0;
+  --uploadBtn--color:#222222;
+}
+
+[data-theme='dark'] {
+  --bg-color: #1e1e1e;
+  --text-color: #eeeeee;
+  --layout-color:rgba(48, 45, 45, 0.826);
+  --card-bg: #2e2e2e;
+  --border-color: #444444;
+   --uploadBtn--color:#eeeeee;
+}
